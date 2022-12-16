@@ -8,7 +8,7 @@ body{
   margin:0;
 }
 header{
-  
+
   background-color: black;
   display: flex;
 }
@@ -22,8 +22,7 @@ h1{
   margin: 3rem;
   margin-left: 12rem;
   background-color: transparent;
-  border: 2px solid #E9E9E9;
-  border-radius: 50%;
+
   color: #fff;
   font-family: inherit;
   font-size: 1rem;
@@ -78,13 +77,15 @@ div{
 .movie-info span.orange{
   color:orange;
 }
-.movie-info span.red{
-  color:red;
-} m,.dcmdkcjmdzxvbnjfmqs[l12]
 
-.overview h3{
-  margin-top: 0;
+.movie-info span.red{
+color:red;
 }
+
+
 .movie:hover{
   transform: translateY(0);
-}  
+}
+
+
+  
