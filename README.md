@@ -31,3 +31,5 @@ clone [here] (git@github.com:57-83/movie-search-app.git)
 
 copyright(c) `sumeya haji`
 
+## how to use movie-search-app
+to use movie-search-app ('https://57-83.github.io/movie-search-app/')
